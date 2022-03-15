@@ -1,0 +1,75 @@
+name: Повідомлення про помилку
+description: Щось працює не так?
+labels: ["needs triage", "bug"]
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Опис
+      description: >-
+        Зрозумілий і чистий опис того, що представляє вз себе баг.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Що очікувалося?
+      description: >-
+        Зрозумілий і чистий опис того, що ви очікували щоб сталося.
+
+  - type: input
+    id: commit
+    attributes:
+      label: Версія скрипту
+      placeholder: git rev-parse HEAD
+    validations:
+      required: true
+  - type: input
+    id: python_version
+    attributes:
+      label: Версія Python
+      placeholder: python -V
+    validations:
+      required: true
+  - type: input
+    id: poetry_version
+    attributes:
+      label: Версія poetry
+      placeholder: poetry version
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: OS
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Як повторити
+      description: Будь ласка напишіть детальні кроки для повторення помилки.
+      placeholder: |
+        1. Змініть строку ...
+        2. Потім запустіть ...
+        3. І помилка з'явиться.
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Логи
+      description: Вставьте все з консолі, або лог-файла.
+      render: console
+
+  - type: checkboxes
+    id: checkboxes
+    attributes:
+      label: Це не дублікат
+      options:
+        - label: У репозиторії та в інтернеті немає дубліката цієї помилки.
+          required: true

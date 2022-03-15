@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Порожній баг репорт"
+    url: https://github.com/PerchunPak/ua-itarmy-parser/issues/new
+    about: Тільки для учасників репозиторія.
