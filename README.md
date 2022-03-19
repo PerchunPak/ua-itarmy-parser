@@ -153,5 +153,5 @@ python run.py
 ## Дякуємо
 
 Цей проєкт був згенерований з допомогою [`autodonate-plugin-template`](https://github.com/fire-squad/autodonate-plugin-template).
-Поточна версія прикладу: [712ad14428b591e37de78eb508c708894b1d99c0](https://github.com/fire-squad/autodonate-plugin-template/tree/bdb6d192cad47ba2ed616dc7bdf78f153f043701).
-Дивіться що [оновилося](https://github.com/fire-squad/autodonate-plugin-template/compare/712ad14428b591e37de78eb508c708894b1d99c0...master) з того часу.
+Поточна версія прикладу: [6c3ec0d643f76745f533ed2eaf6c364adb51b393](https://github.com/fire-squad/autodonate-plugin-template/tree/6c3ec0d643f76745f533ed2eaf6c364adb51b393).
+Дивіться що [оновилося](https://github.com/fire-squad/autodonate-plugin-template/compare/6c3ec0d643f76745f533ed2eaf6c364adb51b393...master) з того часу.
