@@ -1,3 +1,11 @@
+# [@itarmyofukraine2022](https://t.me/itarmyofukraine2022) [виклали](https://t.me/itarmyofukraine2022/229) свій додаток для автоматизованних атак. [Дивіться інструкцію.](https://telegra.ph/Death-by-1000-needles-03-17)
+
+Проект архівовано, рекомендую користуватися додатком з офіційного джерела.
+
+# [@itarmyofukraine2022](https://t.me/itarmyofukraine2022) [post](https://t.me/itarmyofukraine2022/229) their own DDOS utility for performing automated attacks. [See guide.](https://telegra.ph/Death-by-1000-needles-03-18)
+
+Project archived, I recommend using utility from official source.
+
 # ua-itarmy-parser
 
 [![Build Status](https://github.com/PerchunPak/ua-itarmy-parser/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/PerchunPak/ua-itarmy-parser/actions?query=workflow%3Atest)
